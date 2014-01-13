@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="pt-BR">
 <head>
     
@@ -61,6 +61,9 @@
                         <input type="reset" class="btn" value="Limpar"/>
 						
 						<input type="submit" name="cadastrar" value="Cadastrar" class="btn"/>
+                        <input type="reset" class="btn" value="Limpar"/>
+
+			<input type="submit" name="cadastrar" value="Cadastrar" class="btn"/>
                         <input type="reset" class="btn" value="Limpar"/>
                     </fieldset>
         </form>
